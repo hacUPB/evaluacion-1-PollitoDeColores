@@ -4,7 +4,7 @@
 
  Se hizo git clone del repositorio dado, se editó el archivo indicado con el código mostrado, para luego realizar el proceso de add, commit y push.
 
-! [Imagen](https://images3.memedroid.com/images/UPLOADED222/5f5004d394021.jpeg)
+![Imagen](https://images3.memedroid.com/images/UPLOADED222/5f5004d394021.jpeg)
 
 [Artsation](https://www.artstation.com/artwork/B18Y2k)
 
